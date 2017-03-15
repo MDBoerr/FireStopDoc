@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  FireStopDoc
+//  FireStopDoc Atlas ABC B.V.
 //
 //  Created by Michael  de Boer on 3/15/17.
 //  Copyright © 2017 MRB. All rights reserved.
@@ -19,9 +19,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-    
-    func f() {
-    }
+
 
 }
 
